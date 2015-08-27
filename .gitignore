@@ -1,0 +1,9 @@
+# Site: EE Guide
+public/.htaccess
+system/expressionengine/cache/* !system/expressionengine/cache/index.html
+app/config/env_config.php app/config/env_database.php
+
+/assets/images/captchas/* 
+!/assets/images/captchas/index.html
+/assets/images/member_photos/* 
+!/assets/images/member_photos/index.html
